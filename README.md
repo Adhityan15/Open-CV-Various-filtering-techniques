@@ -34,7 +34,7 @@ Each filter is implemented **individually** as a separate Python program for bet
 
 Computer-Vision-Filters/
 │
-├── image_filtering_techniques.py
+├── ex01.py
 ├── input.jpg
 └── README.md
 
